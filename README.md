@@ -24,6 +24,8 @@ RESUME
 
 ![김정은 사진](김정은.png)
 
-
+1 | 2
+--|--
+3 | 4
 
 [1]:http://www.naver.com
