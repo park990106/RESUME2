@@ -19,10 +19,10 @@ RESUME
 #### 내가 자주가는 사이트
 1. HTTPS://naver.com
 2. [한림대학교](HTTPS://hallym.ac.kr)
+3. [네이버][1]
 
 
 
 
 
-
-[1]
+[1]:http://www.naver.com
