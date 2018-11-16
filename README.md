@@ -23,7 +23,7 @@ RESUME
 
 
 #### 활동사진 
-![]
+
 
 
 [1]:http://www.naver.com
