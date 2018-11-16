@@ -22,7 +22,8 @@ RESUME
 3. [네이버][1]
 
 
-
+#### 활동사진 
+![]
 
 
 [1]:http://www.naver.com
